@@ -1,15 +1,17 @@
-import Header from '../../Samamiraa-Portfolio/src/components/Header';
-import Footer from '../../Samamiraa-Portfolio/src/components/Footer';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { Outlet } from 'react-router-dom';
 
+{/**Theme= dark theme UI */}
 const darkTheme = createTheme({
   palette: {
     mode: 'dark',
   },
 });
 
+{/** Footer and Header on every page */}
 function App() {
   return (
     <ThemeProvider theme={darkTheme}>
