@@ -2,7 +2,7 @@
 import Avatar from '@mui/material/Avatar';
 import CssBaseline from '@mui/material/CssBaseline';
 import Container from '@mui/material/Container';
-import selfie from '/img/selfie.jpg'
+import about1 from '../../public/img/';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 
@@ -22,7 +22,7 @@ function About() {
                 {/* portfolio pic */}
                 <Avatar
                     alt="Sam Greenwood"
-                    src={selfie}
+                    src={about1}
                     sx={{ width: 250, height: 250 }}
                 />
 
