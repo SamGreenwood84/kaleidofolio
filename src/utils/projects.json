@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "christmas-movie-generator",
+        "img": "/img/cmg.png",
+        "description": "Text Editor that uses webpack, service workers and manifest. This project included starter code, the main goals were to inject manifest, import the custom service worker and bundle with webpack.",
+        "github": "https://github.com/SamGreenwood84/christmas-movie-generator.git",
+        "url": "https://samgreenwood84.github.io/christmas-movie-generator/"
+    },
+    {
+        "id": "2",
+        "title": "DungeonsAndDevs",
+        "img": "/img/dnd.png",
+        "description": "A full-stack education gaming app made with node and MySql. Where coding and fantasy merge in an epic learning adventure.",
+        "github": "https://github.com/Maximilian93B/DungeonsAndDevs.git",
+        "url": "https://drive.google.com/file/d/1s1A9CBL98nOxLh_a3OUPo8zHfgy6XO6y/view"
+    },
+    {
+        "id": "3",
+        "title": "music-festival-hub",
+        "img": "/img/ff.png",
+        "description": "A full-stack MERN application. A one-stop shop to buy festival merch, buy tickets, connect with festival friends, design my own looks, post my own photos and experiences and get the latest updates ",
+        "github": "https://github.com/SamGreenwood84/music-festival-hub.git",
+        "url": "https://music-festival-hub-iypu.onrender.com"
+    }
+]
