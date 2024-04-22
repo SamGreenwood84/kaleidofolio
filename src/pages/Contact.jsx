@@ -73,7 +73,7 @@ export default function Contact() {
                 </Typography>
                 <ContactPhoneIcon sx={{ color: '#00ff00' }}/>
                 <Typography variant='body1' color='textSecondary' align='center' gutterBottom>
-                    604-349-8535
+                    506-663-5589
                 </Typography>
                 {/** No text is entered=alert */}
                  {showAlertName && (

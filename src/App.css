@@ -49,11 +49,12 @@ body {
 /* Card styles */
 .card {
   padding: 2em;
+  background-color: #fff;
 }
 
 /* Read the docs styles */
 .read-the-docs {
-  color: #888;
+  color: #ff00ff;
 }
 
 /* Header styles */

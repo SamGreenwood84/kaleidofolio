@@ -36,7 +36,7 @@ function Resume() {
                                 <List dense={true} sx={{textAlign: 'center'}}>
                                         <ListItem color='textSecondary'>
                                             <ListItemIcon sx={{ marginRight: '5px'}}>
-                                                <HtmlIcon sx={{ color: '' }}/>
+                                                <HtmlIcon sx={{ color: '00ff00' }}/>
                                             </ListItemIcon>
                                             <ListItemText
                                                 primary='HTML'
