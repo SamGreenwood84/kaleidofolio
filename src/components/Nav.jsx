@@ -39,7 +39,7 @@ function Nav(props) {
   const drawer = (
     <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
       <Typography variant="h6" sx={{ my: 2, color: '#00ff00'  }}>
-        SAMANTHA ALLEN
+        SAM GREENWOOD
       </Typography>
       <Divider />
       <List sx={{ color: '#00ff00'  }}>
@@ -76,7 +76,7 @@ function Nav(props) {
             component="div"
             sx={{ flexGrow: 1,  display: { xs: 'none', sm: 'block' }, color: '#00ff00'}}
           >
-           SAMANTHA ALLEN
+           SAM GREENWOOD
           </Typography>
           <Box sx={{ display: { xs: 'none', sm: 'block' }}}>
             {/* Outlines selected nav link */}

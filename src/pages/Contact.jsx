@@ -69,7 +69,7 @@ export default function Contact() {
             <div className='contactForm appJsx'>
                 <ContactMailIcon sx={{ color: '#00ff00' }}/>
                 <Typography variant='body1' color='textSecondary' align='center'>
-                    samanthaamiraallen@gmail.com
+                    asksam2023@gmail.com
                 </Typography>
                 <ContactPhoneIcon sx={{ color: '#00ff00' }}/>
                 <Typography variant='body1' color='textSecondary' align='center' gutterBottom>

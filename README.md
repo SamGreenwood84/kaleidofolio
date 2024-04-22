@@ -96,7 +96,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # Deployment
 
- Deployed Application Link-[Click Here!](https://)
+ Deployed Application Link-[Click Here!](https://http://localhost:5173)
 
  Git Hub Repo Link-[Click Here!](https://github.com/SamGreenwood84/kaleidofolio-v3.git)
 
