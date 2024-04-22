@@ -13,12 +13,16 @@
 - [License](#license)
 
 # Demo
+Successful Build
+![alt text](public/img/buildsuccess.png)
 
 Successful Predeploy
 ![alt text](public/img/predeploy.png)
 
-Successful Build
-![alt text](dist/img/buildsuccess.png)
+Successful Deploy
+![alt text](public/img/deploysuccess.png)
+
+
 
 # User Story
 
