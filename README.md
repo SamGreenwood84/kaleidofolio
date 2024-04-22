@@ -14,7 +14,11 @@
 
 # Demo
 
-Demo GIF or screenshot here
+Successful Predeploy
+![alt text](public/img/predeploy.png)
+
+Successful Build
+![alt text](dist/img/buildsuccess.png)
 
 # User Story
 
