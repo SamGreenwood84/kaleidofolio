@@ -1,6 +1,6 @@
 /* Set black background */
 body {
-  background-color: #000;
+  background-image: url("public/img/kaleidoscope.jpg");
   color: #fff; /* Set text color to white */
   height: 100%;
   margin: 0;
