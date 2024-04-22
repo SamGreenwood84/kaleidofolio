@@ -5,10 +5,10 @@
   "type": "module",
   "homepage": "https://github.com/SamGreenwood84/kaleidofolio-v3.git",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "predeploy": "npm run build && vite build",
+    "deploy": "gh-pages -d dist",
+    "start": "vite",
+    "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
