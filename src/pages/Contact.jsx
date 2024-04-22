@@ -71,7 +71,7 @@ export default function Contact() {
                 <Typography variant='body1' color='textSecondary' align='center'>
                     asksam2023@gmail.com
                 </Typography>
-                <ContactPhoneIcon sx={{ color: '#00ff00' }}/>
+                <ContactPhoneIcon sx={{ color: '#00ffff' }}/>
                 <Typography variant='body1' color='textSecondary' align='center' gutterBottom>
                     506-663-5589
                 </Typography>

@@ -2,7 +2,7 @@
 import Avatar from '@mui/material/Avatar';
 import CssBaseline from '@mui/material/CssBaseline';
 import Container from '@mui/material/Container';
-import about1 from '../../public/img/about1.jpg';
+import about1 from '/img/about1.jpg';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 

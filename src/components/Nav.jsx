@@ -74,7 +74,7 @@ function Nav(props) {
           <Typography
             variant="h6"
             component="div"
-            sx={{ flexGrow: 1,  display: { xs: 'none', sm: 'block' }, color: '#00ff00'}}
+            sx={{ flexGrow: 1,  display: { xs: 'none', sm: 'block' }, color: '#00ffff'}}
           >
            SAM GREENWOOD
           </Typography>
